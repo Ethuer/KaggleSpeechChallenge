@@ -12,6 +12,8 @@ My final score 0.899 with the Kernel uploaded here.
 
 The final approach is an ensemble model with an RNN at its core. Supplementary Conv2D net feeds more data after being trained seperately.
 
+![alt tag](http://ernstthuer.eu/Tensorboard_RNN.png "Graph")
+
 ## Caveat
 The main limiting factor was that the Challenge offered Cloud computing Credits to competitors, which I missed since I signed up late. So my model fit into my local gpu ( < 3gb),  considering that, distance to the competition winner is < 1.2 %, So I am uploading my notebooks anyways.
 
